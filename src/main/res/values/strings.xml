@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">AplicacionesMovil_Webservices</string>
+    <string name="hint_codigo">Codigo</string>
+    <string name="hint_producto">Producto</string>
+    <string name="hint_precio">Precio</string>
+    <string name="hint_fabricante">Fabricante</string>
+    <string name="btnregistrar_producto">Registrar</string>
+    <string name="pantalla_principal">Ingrese a la pantalla principal</string>
+
+    //item para el menu
+    <string name="action_settings">Ajustes</string>
+    <string name="action_Listar">Listar</string>
+    <string name="action_Buscar">Buscar</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="btnconsultar_producto">Consultar</string>
+    <string name="btnupdate_producto">Actualizar</string>
+    <string name="btnelimina_producto">Eliminar</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="ip">http://192.168.0.101</string>
+
+    <!-- hint de los editext login -->
+    <string name="hint_email">Email</string>
+    <string name="hint_pass">Password</string>
+    <string name="hint_btn_ingresar">Ingresar</string>
+    <string name="hint_txt_registrarse">No tienes una cuenta con nosotros? Create uno</string>
+
+    <!-- hint de los editext register_login -->
+    <string name="hint_name">Name</string>
+    <string name="hint_email_register">Email</string>
+    <string name="hint_pass_register">Password</string>
+    <string name="hint_pass_conf_register">Confirmar password</string>
+    <string name="hint_btn_registrar">Registrar</string>
+    <string name="pantalla_principal_login">Ingrese a la pantalla principal</string>
+
+
+
+
+
+</resources>
+
